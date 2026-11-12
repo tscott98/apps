@@ -1,0 +1,16 @@
+---
+id: cambrian
+name: Cambrian
+summary: Cambrian sea screensaver
+desc: A procedural screensaver of the Cambrian seafloor. Anomalocaris, Opabinia, Hallucigenia, trilobites, Marrella, Wiwaxia, Pikaia and comb jellies are drawn from code every frame, with undulating flaps, walking legs and drifting marine snow.
+author: tscott98
+fileName: cambrian.star
+packageName: cambrian
+recommendedInterval: 15
+supports2x: true
+supports64x64: true
+category: art
+tags:
+  - art
+  - nature
+  - science
